@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Local config and secrets
+config.py
+.env
+
+# Logs
+*.log
+/var/log/whales-monitor.log
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.zip
