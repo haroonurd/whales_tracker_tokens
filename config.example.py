@@ -3,7 +3,7 @@
 
 # Telegram bot token (string): e.g. '123456:ABC-DEF...'
 BOT_TOKEN = ''
-
+ 
 # Telegram chat id (string or int)
 CHAT_ID = ''
 
