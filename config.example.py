@@ -6,7 +6,7 @@ BOT_TOKEN = ''
 
 # Telegram chat id (string or int)
 CHAT_ID = ''
-
+ 
 # Tokens configuration:
 # TOKENS is a dict keyed by token symbol with details used by the monitor.
 # Example:
